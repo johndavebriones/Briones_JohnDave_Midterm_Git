@@ -26,6 +26,15 @@ p {
     color: #555;
 }
 
+.name{
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 360px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    background: #fafafa;
+}
+
 .decription {
     margin: 20px auto;
     padding: 20px;
@@ -35,6 +44,20 @@ p {
     background: #fafafa;
 }
 
+.about-me{
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 360px;
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    background: #fafafa;
+}
+
+.about-me p{
+    text-align: start;
+    margin: 0;
+    line-height: 1.5;
+}
 .decription p {
     margin: 0;
     line-height: 1.5;
